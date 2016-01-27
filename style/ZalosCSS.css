@@ -1,5 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
 
+body{
+	background-color: #ffe9d2;
+}
+
 .header {
 	background-color: #db9c59;
 	color: #ffffff ;
@@ -12,6 +16,25 @@
 
 .logo {
 	color: #ffffff;
+}
+
+
+.jumbotron {
+	padding: 100px 0px;
+}
+.jumbotron h1 {
+	text-align: center;
+	font-size: 100px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.project {
+	background-color: #ffc78c;
+	height: 250px;
+	-webkit-box-shadow: 2px 2px 8px 0px rgba(50, 50, 50, 0.64);
+	-moz-box-shadow:    2px 2px 8px 0px rgba(50, 50, 50, 0.64);
+	box-shadow:         2px 2px 8px 0px rgba(50, 50, 50, 0.64);
+	margin-right: 50px;
 }
 
 #navigatie {

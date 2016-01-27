@@ -7,6 +7,15 @@
 	font-size: 50px;
 	font-family: 'Montserrat', sans-serif;
 	border-radius: 10px;
+	margin-top: 10px;
+}
+
+.logo {
+	color: #ffffff;
+}
+
+#navigatie {
+	padding: 30px;
 }
 
 #navigatie ul {
@@ -15,17 +24,18 @@
 	padding:0;
 }
 
-#navigatie li a{
+#navigatie ul li a {
 	text-decoration:none;
 	background-color: #000000;
 	color: #ffffff;
 	border: 1px solid #ffffff;
 	display: block;
 	width: 100%;
-	padding: 15px;	
+	padding: 15px;
+	font-size: 15px;
 }
 
-#navigatie li{
+#navigatie li {
 	float:left;
 }
 
@@ -34,4 +44,3 @@
 	color: #000000;
 	font-weight:bold;
 }
-	

@@ -3,8 +3,35 @@
 .header {
 	background-color: #000000;
 	color: #ffffff ;
-	font-family: ;
-	font-size:24px;
-	font-style: italic;
+	font-style:italic;
+	font-size: 50px;
 	font-family: 'Montserrat', sans-serif;
+	border-radius: 10px;
 }
+
+#navigatie ul {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+
+#navigatie li a{
+	text-decoration:none;
+	background-color: #000000;
+	color: #ffffff;
+	border: 1px solid #ffffff;
+	display: block;
+	width: 100%;
+	padding: 15px;	
+}
+
+#navigatie li{
+	float:left;
+}
+
+#navigatie li a:hover{
+	background-color: #8DBAC9;
+	color: #000000;
+	font-weight:bold;
+}
+	

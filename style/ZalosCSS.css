@@ -20,6 +20,7 @@ body{
 
 .jumbotron {
 	padding: 200px 0px;
+	margin: 5px 0px;
 	background: url(../images/jumbotron.jpg);
 	background-repeat:no-repeat;
 	background-position:center center;

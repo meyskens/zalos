@@ -18,9 +18,12 @@ body{
 	color: #ffffff;
 }
 
-
 .jumbotron {
-	padding: 100px 0px;
+	padding: 200px 0px;
+	background: url(../images/jumbotron.jpg);
+	background-repeat:no-repeat;
+	background-position:center center;
+	margin-bottom: 20px;
 }
 .jumbotron h1 {
 	text-align: center;
@@ -35,6 +38,15 @@ body{
 	-moz-box-shadow:    2px 2px 8px 0px rgba(50, 50, 50, 0.64);
 	box-shadow:         2px 2px 8px 0px rgba(50, 50, 50, 0.64);
 	margin-right: 50px;
+}
+
+.persoon {
+	background-color: #ffc78c;
+	height: 150px;
+	-webkit-box-shadow: 2px 2px 8px 0px rgba(50, 50, 50, 0.64);
+	-moz-box-shadow:    2px 2px 8px 0px rgba(50, 50, 50, 0.64);
+	box-shadow:         2px 2px 8px 0px rgba(50, 50, 50, 0.64);
+	margin-right: 360px;
 }
 
 #navigatie {

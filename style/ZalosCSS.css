@@ -68,7 +68,7 @@ body{
 #navigatie ul {
 	list-style-type:none;
 	margin:0;
-	padding:0;
+	padding-top:3%;
 }
 
 #navigatie ul li {

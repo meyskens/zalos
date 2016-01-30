@@ -2,7 +2,12 @@
 
 body{
 	background-color: #ffe9d2;
+	color:black;
+	padding:10px;
 }
+
+.grid-container{background-color:white;
+	color:black;}
 
 .header {
 	background-color: #db9c59;
@@ -16,6 +21,7 @@ body{
 
 .logo {
 	color: #ffffff;
+	background-color:transparent;
 }
 
 .jumbotron {
@@ -36,6 +42,7 @@ body{
 
 .project {
 	background-color: #ffc78c;
+	color:black;
 	height: 250px;
 	-webkit-box-shadow: 2px 2px 8px 0px rgba(50, 50, 50, 0.64);
 	-moz-box-shadow:    2px 2px 8px 0px rgba(50, 50, 50, 0.64);
@@ -45,6 +52,7 @@ body{
 
 .persoon {
 	background-color: #ffc78c;
+	color:black;
 	height: 10%;
 	-webkit-box-shadow: 2px 2px 8px 0px rgba(50, 50, 50, 0.64);
 	-moz-box-shadow:    2px 2px 8px 0px rgba(50, 50, 50, 0.64);

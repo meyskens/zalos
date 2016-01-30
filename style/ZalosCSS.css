@@ -111,10 +111,12 @@ body{
 	 text-align:center;
 }
  
- #foot{background-color: #db9c59;
+#foot{
+	background-color: #db9c59;
 	color: #ffffff ;
 	margin-top:150px;
 	margin-bottom:10px;
 	padding:20px;
 	text-align:right;
-	border-radius: 10px;}
+	border-radius: 10px;
+}

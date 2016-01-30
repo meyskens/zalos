@@ -107,7 +107,9 @@ body{
 	font-weight:bold;
 }
  
- .opmaakTekstjes{text-align:center;}
+ .opmaakTekstjes{
+	 text-align:center;
+}
  
  #foot{background-color: #db9c59;
 	color: #ffffff ;

@@ -106,6 +106,12 @@ body{
 	color: #000000;
 	font-weight:bold;
 }
+
+#navigatie li a:focus{
+	background-color: #8DBAC9;
+	color: #000000;
+	font-weight:bold;
+}
  
 .opmaakTekstjes{
 	 text-align:center;
